@@ -111,6 +111,7 @@ body{
 }
 .inputText:focus{
     border: 0;
+    border: 1px solid red;
     outline: 1px solid red;
 }
 
@@ -129,4 +130,5 @@ body{
     width:380px;
     border-radius: 7px;
     border: 0;
+    
 }
