@@ -129,6 +129,9 @@ body{
     margin-right: 10px;
     width:380px;
     border-radius: 7px;
-    border: 0;
-    
+    border: 0;  
+}
+.submitBtn:hover{
+
+    cursor: pointer;
 }
